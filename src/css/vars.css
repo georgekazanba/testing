@@ -1,0 +1,5 @@
+:root{
+    --red:#c80000;
+    --gray:#181818;
+    --green-filter: invert(55%) sepia(89%) saturate(2501%) hue-rotate(85deg) brightness(114%) contrast(129%);
+}

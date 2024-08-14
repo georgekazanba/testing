@@ -1,0 +1,29 @@
+.dzharakhov{
+    height:328px;
+}
+.dzharakhov > img{
+    height:100%;
+}
+.wrap-content strong, .wrap-content div{
+    align-self: flex-start;
+}
+.wrap-content div{
+    padding-left: 1em;
+}
+.wrap{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.wrap-content{
+    width: 60%;
+    display: flex;
+    flex-flow: column;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    align-self: center;
+    gap:10px;
+}
